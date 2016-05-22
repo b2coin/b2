@@ -1,0 +1,9 @@
+Building B2COIN
+
+See doc/readme-qt.rst for instructions on building B2COIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of B2COIN.
+
+See doc/build-*.txt for instructions on building b2coind,
+the intended-for-services, no-graphical-interface, reference
+implementation of B2COIN.
